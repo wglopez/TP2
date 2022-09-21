@@ -1,2 +1,2 @@
 # TP2
- Calculadora
+ Android Studio: Calculadora
